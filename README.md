@@ -1,1 +1,2 @@
-# dvann_dataAgg_dbisp
+# Data Aggregation Assessment
+Manipulated data from text files using python
